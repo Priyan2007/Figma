@@ -377,7 +377,9 @@ Contact Page
 </html>
 ```
 ## OUTPUT:
-
+![alt text](ig4-1-1.png) 
+![alt text](ig2-1-1.png) 
+![alt text](ig1-1-1.png)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
